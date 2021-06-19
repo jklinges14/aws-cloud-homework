@@ -254,8 +254,6 @@ For the Challenge section, create a new Jupyter notebook named crypto_clustering
 
 Create and upload a repository with the above files to GitHub and post a link in BootCamp Spot.
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
 About
 A repository for Columbia FinTech Bootcamp Module 13 AWS-Cloud homework
 
